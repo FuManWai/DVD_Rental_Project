@@ -43,9 +43,11 @@ For questions or inquiries, you can reach me on [LinkedIn](https://www.linkedin.
 ## Acknowledgments
 I would like to extend my gratitude to the following for their contributions and support in making this project possible:
 
-Will: 
-Cantek IT Program: 
-PostgreSQL Tutorial Website: 
+Will:  the course instructor, was instrumental in guiding and inspiring the process of learning. His expertise and passion were essential for the project's success.
+
+Cantek IT Program: the institution providing the course, deserves a special mention for creating the educational environment and resources that made this project feasible. Their commitment to high-quality instruction substantially enhanced our learning experience.
+
+PostgreSQL Tutorial Website: the website kindly provided the sample dataset, allowing us to successfully practice and apply SQL fundamentals. Their assistance in making relevant resources available for our project was critical to our learning.
 
 ## Conclusion
 Thank you for exploring the DVD Rental Dataset Analysis project. Hope you find this dataset and analysis valuable for your data-related endeavors. Enjoy your exploration!
